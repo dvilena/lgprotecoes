@@ -1,0 +1,60 @@
+/* Estrutura do site */
+
+body {
+	background-image: linear-gradient(rgb(3, 3, 117) , white , rgb(3, 3, 117));
+	font: 12px "Lucida Grande", "Lucida Sans Unicode", Arial, sans-serif;
+}
+
+
+
+
+.texto1 {
+    text-align: center;
+    color: whitesmoke;
+}
+
+.figura1 {
+    margin-left: 550px;
+    border-radius: 60px;
+    width: 250px;
+}
+
+
+.figura2 {
+    margin-left: 150px;
+    border-radius: 10px;
+    width: 450px;
+}
+
+
+.figura3 {
+	background-position: center;
+    margin-left: 100px;
+    border-radius: 10px;
+    width: 280px;
+}
+
+
+
+h3{
+	color: black;
+	font-size: 1.0em;
+	margin-bottom: 15px;
+	text-transform: uppercase;
+}
+
+.rodape {
+
+	color: white;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
