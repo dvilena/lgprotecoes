@@ -14,8 +14,7 @@ def servicos():
     return render_template("servicos.html")
 
 
-    
-    
+       
 
 if __name__ == "__main__":
     app.run()
